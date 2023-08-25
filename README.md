@@ -6,4 +6,4 @@ After generating H-D models, tree heights are predicted using the tree diameter 
 
 Sample data sets are provided along with the script on the GitHub. Data are given in "India_height_dbh_8179.csv" & "India_Plot_AGB_Test.csv"  file for for HD modeling & Plot Biomass Estimation
 
-Use the script "Script_India_HD_Model.R" for HD model and AGB Estimation. Files "TreeBiomass.R" & "PlotBiomass.R" will codes enable tree and plot biomass estimation using Forest Survey of India, FSI Volume equation. "Volume_Equations_Database_FSI.csv" file contains the volume equation database.
+Use the script "Script_India_Biomass_HD_Model.R" for HD model and AGB Estimation. Files "TreeBiomass.R" & "PlotBiomass.R" will codes enable tree and plot biomass estimation using Forest Survey of India, FSI Volume equation. "Volume_Equations_Database_FSI.csv" file contains the volume equation database.
