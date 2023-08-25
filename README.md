@@ -1,6 +1,6 @@
 The provided script is a part of the study titled "Improving Above Ground Biomass Estimation in Tropical Indian Forests" which has been submitted to "Ecological Informatics".
 
-The script focuses on developing Height-Diameter (HD) models using field inventory data and comparing these models with existing Global H-D models.
+The script focuses on developing Height-Diameter (HD) models using field inventory data over tropical Indian Forests and comparing these models with existing Global H-D models.
 
 After generating H-D models, tree heights are predicted using the tree diameter measured on the field. Then, the plot level biomass is estimated using various allometic models (FSI VOlume equation, and Pan Tropical models by Chave et al., 2014). 
 
